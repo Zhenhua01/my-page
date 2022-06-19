@@ -1,0 +1,85 @@
+html {
+    background-color: steelblue;
+}
+
+h1 {
+    font-family: trajan;
+    font-size: 80px;
+    margin: 50px 10px 0px;
+}
+
+h3 {
+    font-family: trajan;
+    font-size: 50px;
+    margin: 0;
+    text-decoration: overline;
+    text-decoration-color: whitesmoke;
+    text-decoration-thickness: 2px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+body {
+    padding-top: 100px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+img {
+    overflow: hidden;
+    border-radius: 50%;
+    border: 1px solid whitesmoke;
+}
+
+#intro {
+    padding: 100px;
+}
+
+#about {
+    padding: 180px 350px;
+}
+
+#projects {
+    padding: 180px 300px;
+}
+
+#contact {
+    padding: 180px;
+}
+
+#projects a:hover{
+    color: whitesmoke;
+}
+
+#contact a:hover{
+    color: whitesmoke;
+}
+
+.link {
+    color: darkblue;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: steelblue;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#navbar a {
+  float: right;
+  display: block;
+  color: whitesmoke;
+  text-align: center;
+  padding: 20px 30px 10px 0px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+#navbar a:hover {
+  color: black;
+}
