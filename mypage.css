@@ -40,6 +40,8 @@ img {
 
 #about {
     padding: 180px 300px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 #projects {
